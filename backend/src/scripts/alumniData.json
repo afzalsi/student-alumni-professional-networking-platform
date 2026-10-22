@@ -1,0 +1,301 @@
+[
+  {
+    "name": "David Miller (Demo Alumni)",
+    "email": "alumni@example.com",
+    "department": "Computer Science",
+    "graduationYear": 2019,
+    "location": "San Francisco, CA",
+    "skills": [
+      "System Design",
+      "React",
+      "Node.js",
+      "AWS",
+      "Distributed Systems"
+    ],
+    "bio": "Senior Staff Engineer at Google. Mentored 30+ students into top tech companies.",
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+    "company": "Google",
+    "jobTitle": "Senior Staff Software Engineer",
+    "industry": "Information Technology / SaaS",
+    "experienceYears": 6,
+    "expertise": [
+      "System Design",
+      "Full Stack Architecture",
+      "Resume Review",
+      "Mock Interviews",
+      "Career Strategy"
+    ],
+    "mentorAvailable": true,
+    "availabilitySchedule": "Tuesdays & Thursdays (6:00 PM - 8:00 PM PST)",
+    "ratingAverage": 4.9,
+    "ratingCount": 18,
+    "availableSlots": [
+      {
+        "dayOfWeek": "Tuesday",
+        "startTime": "18:00",
+        "endTime": "19:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "startTime": "19:00",
+        "endTime": "20:00"
+      }
+    ]
+  },
+  {
+    "name": "Rachel Adams",
+    "email": "rachel.adams@example.com",
+    "department": "Computer Science",
+    "graduationYear": 2018,
+    "location": "Seattle, WA",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "LLMs",
+      "MLOps",
+      "Deep Learning"
+    ],
+    "bio": "Principal AI Scientist at Microsoft Research. Passionate about mentoring aspiring ML practitioners.",
+    "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150",
+    "company": "Microsoft",
+    "jobTitle": "Principal AI Scientist",
+    "industry": "Artificial Intelligence",
+    "experienceYears": 7,
+    "expertise": [
+      "Machine Learning",
+      "AI Research",
+      "Graduate School Advice",
+      "MLOps"
+    ],
+    "mentorAvailable": true,
+    "availabilitySchedule": "Saturdays (10:00 AM - 1:00 PM PST)",
+    "ratingAverage": 5,
+    "ratingCount": 12
+  },
+  {
+    "name": "Priya Sharma",
+    "email": "priya.sharma@example.com",
+    "department": "Information Technology",
+    "graduationYear": 2020,
+    "location": "New York, NY",
+    "skills": [
+      "Cloud Architecture",
+      "Kubernetes",
+      "Go",
+      "AWS",
+      "Security"
+    ],
+    "bio": "Lead DevOps & Cloud Engineer at Stripe. Former university hackathon lead.",
+    "avatar": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=150",
+    "company": "Stripe",
+    "jobTitle": "Lead DevOps Engineer",
+    "industry": "Fintech / Cloud Infrastructure",
+    "experienceYears": 5,
+    "expertise": [
+      "DevOps",
+      "Kubernetes",
+      "Cloud Certification",
+      "Infrastructure as Code"
+    ],
+    "mentorAvailable": true,
+    "availabilitySchedule": "Wednesdays (5:00 PM - 7:00 PM EST)",
+    "ratingAverage": 4.8,
+    "ratingCount": 9
+  },
+  {
+    "name": "Carlos Mendez",
+    "email": "carlos.m@example.com",
+    "department": "Software Engineering",
+    "graduationYear": 2017,
+    "location": "San Jose, CA",
+    "skills": [
+      "Product Design",
+      "Figma",
+      "UX Research",
+      "Design Systems"
+    ],
+    "bio": "Head of Product Design at Netflix. Dedicated to coaching students on portfolio building and critique.",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150",
+    "company": "Netflix",
+    "jobTitle": "Head of Product Design",
+    "industry": "Consumer Tech / Media",
+    "experienceYears": 8,
+    "expertise": [
+      "Portfolio Review",
+      "Design Critique",
+      "UX Strategy",
+      "Design Leadership"
+    ],
+    "mentorAvailable": true,
+    "availabilitySchedule": "Mondays (4:00 PM - 6:00 PM PST)",
+    "ratingAverage": 4.9,
+    "ratingCount": 15
+  },
+  {
+    "name": "Jessica Taylor",
+    "email": "jessica.t@example.com",
+    "department": "Data Science",
+    "graduationYear": 2019,
+    "location": "Austin, TX",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Python",
+      "Product Analytics",
+      "A/B Testing"
+    ],
+    "bio": "Senior Analytics Manager at Amazon. Specializing in conversion metrics and interview prep.",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+    "company": "Amazon",
+    "jobTitle": "Senior Analytics Manager",
+    "industry": "E-commerce & Analytics",
+    "experienceYears": 6,
+    "expertise": [
+      "Data Analytics",
+      "SQL Mastery",
+      "Behavioral Interviews",
+      "Case Studies"
+    ],
+    "mentorAvailable": true,
+    "availabilitySchedule": "Fridays (3:00 PM - 5:00 PM CST)",
+    "ratingAverage": 4.7,
+    "ratingCount": 11
+  },
+  {
+    "name": "Daniel Kim",
+    "email": "daniel.kim@example.com",
+    "department": "Computer Science",
+    "graduationYear": 2016,
+    "location": "San Francisco, CA",
+    "skills": [
+      "C++",
+      "Rust",
+      "Low Latency Systems",
+      "Trading Platforms"
+    ],
+    "bio": "VP of Engineering at Citadel Securities. Experienced in high-frequency trading.",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150",
+    "company": "Citadel Securities",
+    "jobTitle": "VP of Engineering",
+    "industry": "Quantitative Finance / Fintech",
+    "experienceYears": 9,
+    "expertise": [
+      "Quantitative Dev",
+      "C++ Low Latency",
+      "Algorithm Optimization"
+    ],
+    "mentorAvailable": false,
+    "ratingAverage": 5,
+    "ratingCount": 8
+  },
+  {
+    "name": "Samantha Lee",
+    "email": "samantha.l@example.com",
+    "department": "Computer Science",
+    "graduationYear": 2021,
+    "location": "Boston, MA",
+    "skills": [
+      "iOS",
+      "Swift",
+      "SwiftUI",
+      "CoreData"
+    ],
+    "bio": "Senior iOS Engineer at Airbnb. Loves helping students land their first mobile engineering internship.",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150",
+    "company": "Airbnb",
+    "jobTitle": "Senior iOS Engineer",
+    "industry": "Mobile Apps / Travel Tech",
+    "experienceYears": 4,
+    "expertise": [
+      "iOS Development",
+      "SwiftUI",
+      "App Store Publishing",
+      "Junior Dev Advice"
+    ],
+    "mentorAvailable": true,
+    "availabilitySchedule": "Weekends",
+    "ratingAverage": 4.9,
+    "ratingCount": 7
+  },
+  {
+    "name": "Anand Verma",
+    "email": "anand.verma@example.com",
+    "department": "Cybersecurity",
+    "graduationYear": 2018,
+    "location": "Washington, DC",
+    "skills": [
+      "Threat Hunting",
+      "Cloud Security",
+      "Kubernetes Security",
+      "Splunk"
+    ],
+    "bio": "Senior Cyber Defense Lead at CrowdStrike. Assisting students with security certifications and labs.",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+    "company": "CrowdStrike",
+    "jobTitle": "Senior Cyber Defense Lead",
+    "industry": "Cybersecurity",
+    "experienceYears": 7,
+    "expertise": [
+      "Security Engineering",
+      "CTF Coaching",
+      "Security Clearance Guidance"
+    ],
+    "mentorAvailable": true,
+    "ratingAverage": 5,
+    "ratingCount": 6
+  },
+  {
+    "name": "Hannah Brooks",
+    "email": "hannah.b@example.com",
+    "department": "Information Systems",
+    "graduationYear": 2020,
+    "location": "New York, NY",
+    "skills": [
+      "Product Strategy",
+      "Scrum",
+      "User Interviews",
+      "Market Research"
+    ],
+    "bio": "Product Manager at Spotify. Former student body president and founder of campus incubator.",
+    "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=150",
+    "company": "Spotify",
+    "jobTitle": "Product Manager",
+    "industry": "Music & Media Tech",
+    "experienceYears": 5,
+    "expertise": [
+      "Product Management",
+      "Product Execution",
+      "Resume Strategy"
+    ],
+    "mentorAvailable": true,
+    "ratingAverage": 4.8,
+    "ratingCount": 14
+  },
+  {
+    "name": "Kevin Zhao",
+    "email": "kevin.zhao@example.com",
+    "department": "Computer Science",
+    "graduationYear": 2019,
+    "location": "Seattle, WA",
+    "skills": [
+      "Distributed Systems",
+      "Java",
+      "Go",
+      "AWS DynamoDB"
+    ],
+    "bio": "Staff Backend Engineer at Uber. Specializing in high concurrency architectures.",
+    "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=150",
+    "company": "Uber",
+    "jobTitle": "Staff Backend Engineer",
+    "industry": "Mobility & Logistics Tech",
+    "experienceYears": 6,
+    "expertise": [
+      "Backend Systems",
+      "Scalability",
+      "Coding Interviews"
+    ],
+    "mentorAvailable": true,
+    "ratingAverage": 4.9,
+    "ratingCount": 10
+  }
+]

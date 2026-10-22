@@ -1,0 +1,270 @@
+[
+  {
+    "title": "Full Stack Software Engineer (React / Node)",
+    "company": "Google",
+    "description": "Join the Core Cloud Platform team. Build modern web consoles, high-throughput microservices, and internal developer tooling used by millions.",
+    "type": "full-time",
+    "category": "Software Engineering",
+    "location": "San Francisco, CA / Hybrid",
+    "workMode": "hybrid",
+    "salaryRange": ",000 - ,000 / yr",
+    "experienceLevel": "Entry Level",
+    "skills": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "MongoDB",
+      "REST APIs",
+      "Cloud"
+    ]
+  },
+  {
+    "title": "Summer 2027 Software Engineering Intern",
+    "company": "Google",
+    "description": "12-week paid internship working alongside senior mentors on production features in search, cloud, and developer platforms.",
+    "type": "internship",
+    "category": "Software Engineering",
+    "location": "Mountain View, CA / Remote",
+    "workMode": "remote",
+    "salaryRange": " -  / hr",
+    "experienceLevel": "Internship",
+    "skills": [
+      "JavaScript",
+      "Python",
+      "Data Structures",
+      "Algorithms",
+      "React"
+    ]
+  },
+  {
+    "title": "Machine Learning Research Engineer",
+    "company": "Microsoft",
+    "description": "Work on cutting-edge generative AI models, transformer architectures, and scalable inference infrastructure.",
+    "type": "full-time",
+    "category": "Artificial Intelligence",
+    "location": "Redmond, WA",
+    "workMode": "on-site",
+    "salaryRange": ",000 - ,000 / yr",
+    "experienceLevel": "Mid Level",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Machine Learning",
+      "CUDA",
+      "FastAPI"
+    ]
+  },
+  {
+    "title": "AI / Data Science Summer Intern",
+    "company": "Microsoft",
+    "description": "Hands-on internship training foundation models and building intelligent copilot extensions.",
+    "type": "internship",
+    "category": "Artificial Intelligence",
+    "location": "Seattle, WA / Remote",
+    "workMode": "remote",
+    "salaryRange": " -  / hr",
+    "experienceLevel": "Internship",
+    "skills": [
+      "Python",
+      "Pandas",
+      "Machine Learning",
+      "SQL"
+    ]
+  },
+  {
+    "title": "DevOps & Site Reliability Engineer",
+    "company": "Stripe",
+    "description": "Maintain 99.999% availability on global payment infrastructure. Automate Kubernetes clusters and observability.",
+    "type": "full-time",
+    "category": "Cloud & Infrastructure",
+    "location": "New York, NY / Remote",
+    "workMode": "remote",
+    "salaryRange": ",000 - ,000 / yr",
+    "experienceLevel": "Mid Level",
+    "skills": [
+      "AWS",
+      "Kubernetes",
+      "Terraform",
+      "Docker",
+      "Go",
+      "Linux"
+    ]
+  },
+  {
+    "title": "Cloud Infrastructure Intern",
+    "company": "Stripe",
+    "description": "Learn modern IaC, container orchestration, and real-time observability pipelines.",
+    "type": "internship",
+    "category": "Cloud & Infrastructure",
+    "location": "New York, NY",
+    "workMode": "hybrid",
+    "salaryRange": " -  / hr",
+    "experienceLevel": "Internship",
+    "skills": [
+      "Linux",
+      "Docker",
+      "AWS",
+      "Python"
+    ]
+  },
+  {
+    "title": "Associate Product Designer (UI/UX)",
+    "company": "Netflix",
+    "description": "Design intuitive, cinematic interfaces for TV, web, and mobile streaming experiences.",
+    "type": "full-time",
+    "category": "Design & UX",
+    "location": "Los Gatos, CA",
+    "workMode": "hybrid",
+    "salaryRange": ",000 - ,000 / yr",
+    "experienceLevel": "Entry Level",
+    "skills": [
+      "Figma",
+      "UI/UX Design",
+      "Design Systems",
+      "User Research",
+      "Prototyping"
+    ]
+  },
+  {
+    "title": "UI/UX Design Summer Intern",
+    "company": "Netflix",
+    "description": "Collaborate with product leads and researchers to prototype next-gen media discovery workflows.",
+    "type": "internship",
+    "category": "Design & UX",
+    "location": "Remote",
+    "workMode": "remote",
+    "salaryRange": " -  / hr",
+    "experienceLevel": "Internship",
+    "skills": [
+      "Figma",
+      "Wireframing",
+      "UI Design",
+      "Interaction Design"
+    ]
+  },
+  {
+    "title": "Senior Business Intelligence & Data Analyst",
+    "company": "Amazon",
+    "description": "Drive data-informed decisions across fulfillment and consumer retail analytics.",
+    "type": "full-time",
+    "category": "Data & Analytics",
+    "location": "Austin, TX",
+    "workMode": "on-site",
+    "salaryRange": ",000 - ,000 / yr",
+    "experienceLevel": "Senior",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Python",
+      "Data Analysis",
+      "AWS Redshift"
+    ]
+  },
+  {
+    "title": "Data Analytics Intern",
+    "company": "Amazon",
+    "description": "Analyze real-time customer behavioral metrics and generate automated operational dashboards.",
+    "type": "internship",
+    "category": "Data & Analytics",
+    "location": "Austin, TX / Remote",
+    "workMode": "hybrid",
+    "salaryRange": " -  / hr",
+    "experienceLevel": "Internship",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Power BI"
+    ]
+  },
+  {
+    "title": "iOS Mobile Developer",
+    "company": "Airbnb",
+    "description": "Create delightful mobile booking and host management experiences using Swift and SwiftUI.",
+    "type": "full-time",
+    "category": "Mobile Development",
+    "location": "San Francisco, CA",
+    "workMode": "hybrid",
+    "salaryRange": ",000 - ,000 / yr",
+    "experienceLevel": "Entry Level",
+    "skills": [
+      "Swift",
+      "SwiftUI",
+      "iOS",
+      "Xcode",
+      "REST APIs"
+    ]
+  },
+  {
+    "title": "Cybersecurity Threat Analyst",
+    "company": "CrowdStrike",
+    "description": "Monitor threat telemetry, detect anomalous intrusions, and perform incident response forensics.",
+    "type": "full-time",
+    "category": "Cybersecurity",
+    "location": "Washington, DC / Remote",
+    "workMode": "remote",
+    "salaryRange": ",000 - ,000 / yr",
+    "experienceLevel": "Mid Level",
+    "skills": [
+      "Cybersecurity",
+      "SIEM",
+      "Threat Hunting",
+      "Python",
+      "Splunk"
+    ]
+  },
+  {
+    "title": "Associate Product Manager",
+    "company": "Spotify",
+    "description": "Define product requirements and lead cross-functional squad releases for creator tools.",
+    "type": "full-time",
+    "category": "Product Management",
+    "location": "New York, NY",
+    "workMode": "hybrid",
+    "salaryRange": ",000 - ,000 / yr",
+    "experienceLevel": "Entry Level",
+    "skills": [
+      "Agile",
+      "Product Strategy",
+      "Jira",
+      "User Stories",
+      "Analytics"
+    ]
+  },
+  {
+    "title": "Distributed Backend Engineer (Go/Java)",
+    "company": "Uber",
+    "description": "Build microservices handling over 1 million concurrent trip routing calculations per minute.",
+    "type": "full-time",
+    "category": "Software Engineering",
+    "location": "Seattle, WA",
+    "workMode": "hybrid",
+    "salaryRange": ",000 - ,000 / yr",
+    "experienceLevel": "Mid Level",
+    "skills": [
+      "Go",
+      "Java",
+      "Microservices",
+      "Kafka",
+      "Distributed Systems",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "title": "Junior Web Application Developer (Pending Approval)",
+    "company": "NextGen Innovations",
+    "description": "Full stack web development using modern JavaScript frameworks.",
+    "type": "full-time",
+    "category": "Software Engineering",
+    "location": "Chicago, IL",
+    "workMode": "remote",
+    "salaryRange": ",000 - ,000 / yr",
+    "experienceLevel": "Entry Level",
+    "skills": [
+      "JavaScript",
+      "HTML/CSS",
+      "Node.js"
+    ],
+    "status": "PENDING"
+  }
+]

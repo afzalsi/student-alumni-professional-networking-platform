@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Alex Rivera (Demo Student)",
+    "email": "student@example.com",
+    "department": "Computer Science",
+    "graduationYear": 2026,
+    "location": "San Francisco, CA",
+    "skills": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "JavaScript",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
+    "interests": [
+      "Full Stack Development",
+      "Cloud Computing",
+      "Open Source"
+    ],
+    "careerGoals": "Aspiring Full Stack Engineer aiming to work at a top product firm.",
+    "bio": "Passionate CS junior enthusiastic about scalable web apps and developer tooling.",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+    "preferredIndustry": "Information Technology / SaaS",
+    "preferredJobRole": "Full Stack Software Engineer"
+  },
+  {
+    "name": "Emily Zhang",
+    "email": "emily.zhang@example.com",
+    "department": "Computer Science",
+    "graduationYear": 2025,
+    "location": "Seattle, WA",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch",
+      "SQL",
+      "FastAPI"
+    ],
+    "interests": [
+      "AI Research",
+      "Natural Language Processing",
+      "Data Science"
+    ],
+    "careerGoals": "Machine Learning Engineer focused on generative AI systems.",
+    "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150",
+    "preferredIndustry": "Artificial Intelligence",
+    "preferredJobRole": "Machine Learning Engineer"
+  },
+  {
+    "name": "Marcus Vance",
+    "email": "marcus.v@example.com",
+    "department": "Information Technology",
+    "graduationYear": 2026,
+    "location": "Austin, TX",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Linux",
+      "Terraform",
+      "Go"
+    ],
+    "interests": [
+      "DevOps",
+      "Site Reliability Engineering",
+      "Cloud Infrastructure"
+    ],
+    "careerGoals": "Cloud Architect / DevOps Engineer building fault-tolerant systems.",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+    "preferredIndustry": "Cloud Infrastructure",
+    "preferredJobRole": "DevOps Engineer"
+  },
+  {
+    "name": "Sophia Patel",
+    "email": "sophia.p@example.com",
+    "department": "Software Engineering",
+    "graduationYear": 2027,
+    "location": "New York, NY",
+    "skills": [
+      "Figma",
+      "UI/UX Design",
+      "React",
+      "HTML/CSS",
+      "User Research"
+    ],
+    "interests": [
+      "Product Design",
+      "Design Systems",
+      "Frontend Accessibility"
+    ],
+    "careerGoals": "Product Designer bridging the gap between aesthetics and engineering.",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150",
+    "preferredIndustry": "Fintech / Edtech",
+    "preferredJobRole": "UI/UX Product Designer"
+  },
+  {
+    "name": "Jordan Lee",
+    "email": "jordan.lee@example.com",
+    "department": "Data Science",
+    "graduationYear": 2025,
+    "location": "Boston, MA",
+    "skills": [
+      "Data Analysis",
+      "Tableau",
+      "R",
+      "Python",
+      "Pandas",
+      "PostgreSQL"
+    ],
+    "interests": [
+      "Business Intelligence",
+      "Predictive Modeling",
+      "Big Data"
+    ],
+    "careerGoals": "Data Analyst uncovering strategic insights from large telemetry data.",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150",
+    "preferredIndustry": "Healthcare & Analytics",
+    "preferredJobRole": "Data Analyst"
+  },
+  {
+    "name": "Chloe Dubois",
+    "email": "chloe.d@example.com",
+    "department": "Computer Engineering",
+    "graduationYear": 2026,
+    "location": "Chicago, IL",
+    "skills": [
+      "C++",
+      "Rust",
+      "Embedded Systems",
+      "RTOS",
+      "Linux Kernel"
+    ],
+    "interests": [
+      "Robotics",
+      "Autonomous Vehicles",
+      "IoT"
+    ],
+    "careerGoals": "Embedded Systems Developer working on robotics and autonomous platforms.",
+    "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=150",
+    "preferredIndustry": "Automotive & Robotics",
+    "preferredJobRole": "Embedded Software Engineer"
+  },
+  {
+    "name": "Liam O Connor",
+    "email": "liam.oc@example.com",
+    "department": "Cybersecurity",
+    "graduationYear": 2025,
+    "location": "Washington, DC",
+    "skills": [
+      "Network Security",
+      "Penetration Testing",
+      "SIEM",
+      "Cryptography",
+      "Python"
+    ],
+    "interests": [
+      "Ethical Hacking",
+      "Cloud Security",
+      "Threat Intelligence"
+    ],
+    "careerGoals": "Security Operations Analyst protecting critical enterprise infrastructure.",
+    "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=150",
+    "preferredIndustry": "Cybersecurity",
+    "preferredJobRole": "Information Security Analyst"
+  },
+  {
+    "name": "Aaliyah Khan",
+    "email": "aaliyah.k@example.com",
+    "department": "Computer Science",
+    "graduationYear": 2026,
+    "location": "Denver, CO",
+    "skills": [
+      "Mobile Development",
+      "Flutter",
+      "Dart",
+      "Swift",
+      "Firebase"
+    ],
+    "interests": [
+      "iOS / Android Apps",
+      "Consumer Tech",
+      "Interactive UIs"
+    ],
+    "careerGoals": "Mobile Application Engineer creating engaging consumer experiences.",
+    "avatar": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=150",
+    "preferredIndustry": "Mobile Apps & Consumer Tech",
+    "preferredJobRole": "Mobile App Developer"
+  },
+  {
+    "name": "Ethan Wright",
+    "email": "ethan.w@example.com",
+    "department": "Information Systems",
+    "graduationYear": 2027,
+    "location": "Atlanta, GA",
+    "skills": [
+      "Agile",
+      "Jira",
+      "Product Roadmapping",
+      "User Stories",
+      "SQL"
+    ],
+    "interests": [
+      "Product Management",
+      "Tech Strategy",
+      "Customer Success"
+    ],
+    "careerGoals": "Associate Product Manager driving data-driven product launches.",
+    "avatar": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=150",
+    "preferredIndustry": "Enterprise Software",
+    "preferredJobRole": "Associate Product Manager"
+  },
+  {
+    "name": "Olivia Martinez",
+    "email": "olivia.m@example.com",
+    "department": "Computer Science",
+    "graduationYear": 2025,
+    "location": "San Diego, CA",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Kafka",
+      "PostgreSQL"
+    ],
+    "interests": [
+      "Backend Systems",
+      "High Throughput Architecture",
+      "Fintech"
+    ],
+    "careerGoals": "Backend Engineer engineering high-scale transaction pipelines.",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150",
+    "preferredIndustry": "Fintech & Payments",
+    "preferredJobRole": "Backend Java Developer"
+  }
+]
